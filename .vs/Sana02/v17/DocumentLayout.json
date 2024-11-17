@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Sana\\Sana02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0760803E-93C1-47AA-9979-DD96952E3026}|While\\While.csproj|c:\\users\\user\\desktop\\sana\\sana02\\while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0760803E-93C1-47AA-9979-DD96952E3026}|While\\While.csproj|solutionrelative:while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60064286-B27D-400D-9DB3-92C8B7714D9E}|SwitchValues\\SwitchValues.csproj|c:\\users\\user\\desktop\\sana\\sana02\\switchvalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60064286-B27D-400D-9DB3-92C8B7714D9E}|SwitchValues\\SwitchValues.csproj|solutionrelative:switchvalues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1A4643-F6EB-4DB9-8EB6-6C3BCD9A0FFD}|PointsAverage\\PointsAverage.csproj|c:\\users\\user\\desktop\\sana\\sana02\\pointsaverage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1A4643-F6EB-4DB9-8EB6-6C3BCD9A0FFD}|PointsAverage\\PointsAverage.csproj|solutionrelative:pointsaverage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDE59301-7727-4E70-99B0-7229737611DE}|QuadraticEquation\\QuadraticEquation.csproj|c:\\users\\user\\desktop\\sana\\sana02\\quadraticequation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDE59301-7727-4E70-99B0-7229737611DE}|QuadraticEquation\\QuadraticEquation.csproj|solutionrelative:quadraticequation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Sana\\Sana02\\QuadraticEquation\\Program.cs",
+              "RelativeDocumentMoniker": "QuadraticEquation\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Sana\\Sana02\\QuadraticEquation\\Program.cs",
+              "RelativeToolTip": "QuadraticEquation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:31:06.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Sana\\Sana02\\PointsAverage\\Program.cs",
+              "RelativeDocumentMoniker": "PointsAverage\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Sana\\Sana02\\PointsAverage\\Program.cs",
+              "RelativeToolTip": "PointsAverage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:45:36.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Sana\\Sana02\\SwitchValues\\Program.cs",
+              "RelativeDocumentMoniker": "SwitchValues\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Sana\\Sana02\\SwitchValues\\Program.cs",
+              "RelativeToolTip": "SwitchValues\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:43:16.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Sana\\Sana02\\While\\Program.cs",
+              "RelativeDocumentMoniker": "While\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Sana\\Sana02\\While\\Program.cs",
+              "RelativeToolTip": "While\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:50:19.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
